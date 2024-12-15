@@ -1,0 +1,1 @@
+# This a simple project of the game TicTacToe using javacsript, html and css with motive of learning them
