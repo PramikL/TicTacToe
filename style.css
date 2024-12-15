@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-color: #7B979C; /* i got this color from the coolors website*/
+}
+.container{
+     height: 70vh; /*this means that our container occupies 70% of the viewport */
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+
+}
+
+.game{
+    height: 60vmin;  /* vmin means it represents the 1% of the smaller dimension,
+       for e.g. in a dimension of 600px * 800px, here the smaller dimension is
+       600px, it take that much percentage of 600px
+       here the 60vmin represent 70% of the entire screen since it is inside the 
+       container.*/
+    width: 60vmin;
+    display: flex; /* align the box in the same line*/
+    
+    flex-wrap: wrap;  /*wraps the box into next line if there is no space*/
+
+    justify-content: center;
+     align-items: center;
+     gap: 1vmin;
+
+}
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 0.5rem;
+    border:none;
+    font-size: 8vmin;
+}
+#reset{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: black;
+    color: bisque;
+    border-radius: 1rem;
+}
+
+#newgame-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: black;
+    color: bisque;
+    border-radius: 1rem;
+}
+
+#msg{
+    color: antiquewhite;
+    font-size: 8vmin;
+}
+.hide{
+    display: none; /* this keeps the message hidden until the winner is decided*/
+} 
