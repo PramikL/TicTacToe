@@ -1,1 +1,1 @@
-<p>This project involves building a classic Tic-Tac-Toe game using JavaScript, HTML, and CSS. The goal is to enhance your understanding of these technologies through hands-on practice while creating an engaging and interactive application.</p>
+<p>This project involves building a classic Tic-Tac-Toe game using JavaScript, HTML, and CSS. The goal is to enhance my understanding of these technologies through hands-on practice while creating an engaging and interactive application.</p>
