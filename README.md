@@ -1,1 +1,1 @@
-# This a simple project of the game TicTacToe using javacsript, html and css with motive of learning them
+<p>This project involves building a classic Tic-Tac-Toe game using JavaScript, HTML, and CSS. The goal is to enhance your understanding of these technologies through hands-on practice while creating an engaging and interactive application.</p>
